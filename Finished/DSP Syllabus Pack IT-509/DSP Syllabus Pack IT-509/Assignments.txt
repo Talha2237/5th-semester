@@ -1,0 +1,14 @@
+Assignment 01:
+Q1: Write a program in which define an array, variabale, and further manipulate it using Iterative and conditional struture and finally plot it.
+Q2: Take an input from user for frequency and temp variable and then draw a sine & cosine graph using 2πft.
+                                                                                                                                                                                                                                                                                                                                                                          
+
+Assignment 02:
+Analyze and verify sampling theorem using appropriate signal.(chatgpt)
+
+
+Assignment 03:
+Take multiple audio signals and denoise it on Matlab.(online matlab documentation)
+
+Assignment 04:
+Implementation of fourier transform which we have studied today

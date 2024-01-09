@@ -1,0 +1,41 @@
+>> complexity increases cost and support requirement
+
+>> cost and square is square of solution in use 
+no of solution = 2
+cost and support = 2^2 or 2x2
+
+>>Sources of complexity
+1. Application stacks--> means a operating environment
+without standardization organisation can use more than one stack that could lead to complexities
+
+2. Multiple hardware
+--> can cause complexity by
+i- you need to keep track of contracts and warranties of different vendors
+ii- the time period between update and implimentation increases due to testing it and onfigring it on different hardwares
+iii- more diverse hardware means recovery disadter
+in some cases you can not standardize things due to legacy or mission critical functions
+
+3. Identity management,
+4. legislative and regulatory mandates
+5. connectivity
+
+>>complications of complxity
+1. Higher personnel costs:
+2. Increase cost of business continuity and disaster recovery
+3. Higher software cost
+4. Redundency
+
+>>Planning for consolidation(soldifying a company or process of making it strong)
+sunk cost(the cost has already been incurred and can not be recovered) should not be the sole reason of staying in existing envrionment
+
+>>Planning, (making decisions about the future)
+three stages of planning
+1. strategic planning, long term executive level planning
+2. tactical planning, mid term planning with affects on middle management 
+3. operational planning, short term and day to day operations concering planning
+
+Methods
+1. 80/20 rule: Pareto principal
+2. Finding values
+
+
